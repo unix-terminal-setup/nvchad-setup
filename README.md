@@ -1,2 +1,3 @@
 # nvchad-setup
-Installs NeoVim with the NvChad distribution.
+
+Install NeoVim with the NvChad distribution.
