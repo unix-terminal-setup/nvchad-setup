@@ -9,5 +9,5 @@ Install NeoVim with the NvChad distribution.
 ### Quick Start
 
 ```bash
-curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/linux-terminal-setup/nvchad-setup/main/setup.sh | bash
+curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/unix-terminal-setup/nvchad-setup/main/setup.sh | bash
 ```
