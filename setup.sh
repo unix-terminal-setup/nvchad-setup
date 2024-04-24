@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
 # Install NeoVim:
-curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/linux-terminal-setup/neovim-setup/main/setup.sh | bash
+curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/unix-terminal-setup/neovim-setup/main/setup.sh | bash
 
 # Install NvChad dependencies:
 
-curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/linux-terminal-setup/nerd-fonts-setup/main/setup.sh | bash
+curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/unix-terminal-setup/nerd-fonts-setup/main/setup.sh | bash
 
 sudo apt install -y build-essential git
 
